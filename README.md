@@ -1,2 +1,2 @@
-# python-projects
-This repository includes various python projects
+# Python
+Various useful python utilities
